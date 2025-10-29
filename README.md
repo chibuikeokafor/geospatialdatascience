@@ -1,5 +1,5 @@
  # Identifying Ghost Forest Hotspots Using CNN modeling
- ### By Chibuike Okafor Ajani Adovor
+ ### By Chibuike Okafor and Ajani Adovor
 
 We will be replicating a CNN model to map individual dead trees near the Alligator River Wildlife Refuge to indicate hotspots of tree
 morality. This is inspired by a paper in review for Nature, titled ‘Overlooked and extensive ghost forest formation across the US Atlantic coast’ that found extensive tree mortality mostly caused by salinization across the east coast.
